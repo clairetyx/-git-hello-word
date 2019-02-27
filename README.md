@@ -6,4 +6,4 @@ I like good food and walking in a good day.
 
 Now I am self-teaching Python.
 
-I am so coo!!!!
+I am so cool!!!!
